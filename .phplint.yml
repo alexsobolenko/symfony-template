@@ -1,0 +1,6 @@
+path: ./src
+jobs: 10
+cache: phplint
+extensions:
+  - php
+warning: false
